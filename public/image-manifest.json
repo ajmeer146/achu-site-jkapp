@@ -1,0 +1,39 @@
+{
+  "version": "1.1.0",
+  "industry": "login_auth",
+  "generatedAt": "2026-11-02T18:23:01.033Z",
+  "assets": [
+    {
+      "id": "saas-hero-1",
+      "slot": "hero",
+      "subject": "High-Performance Modern Workspace",
+      "title": "Modern Engineering Workspace and Clean Setup",
+      "provider": "curated",
+      "originalUrl": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=1920&q=85",
+      "localPath": "images/hero-workspace.jpg",
+      "browserUrl": "images/hero-workspace.jpg",
+      "width": 1920,
+      "height": 1080,
+      "mimeType": "image/webp",
+      "license": "Unsplash License (Free to use)",
+      "attribution": "Modern Engineering Workspace and Clean Setup via curated",
+      "validationStatus": "verified"
+    },
+    {
+      "id": "wiki-9122245",
+      "slot": "feature",
+      "subject": "Collaborative Office Setup",
+      "title": "Modern offices   geograph.org.uk   9928",
+      "provider": "wikimedia",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/82/Modern_offices_-_geograph.org.uk_-_9928.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "localPath": "images/feature-office.jpg",
+      "browserUrl": "images/feature-office.jpg",
+      "width": 640,
+      "height": 480,
+      "mimeType": "image/jpeg",
+      "license": "CC BY-SA 2.0",
+      "attribution": "Modern offices   geograph.org.uk   9928 by Lizzie (CC BY-SA 2.0) via Wikimedia Commons",
+      "validationStatus": "verified"
+    }
+  ]
+}
